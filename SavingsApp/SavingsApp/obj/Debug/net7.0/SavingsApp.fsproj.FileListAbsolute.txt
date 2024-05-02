@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\4th semester\F sharp Programming\SavingsApp\SavingsApp\obj\Debug\net7.0\SavingsApp.fsproj.AssemblyReference.cache
+C:\Users\User\Desktop\4th semester\F sharp Programming\SavingsApp\SavingsApp\obj\Debug\net7.0\SavingsApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\4th semester\F sharp Programming\SavingsApp\SavingsApp\obj\Debug\net7.0\SavingsApp.AssemblyInfo.fs
+C:\Users\User\Desktop\4th semester\F sharp Programming\SavingsApp\SavingsApp\obj\Debug\net7.0\SavingsApp.fsproj.CoreCompileInputs.cache
